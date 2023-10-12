@@ -1,11 +1,9 @@
 <p align="center">
   <a href="https://ibb.co/BjBddHd">
     <img src="https://i.ibb.co/HYq11L1/Picture1.png"
-         alt="Gitter" width="200">
+         alt="Gitter" width="500">
   </a>
 </p>
-
-## PropertyWorth
 
 # Introduction
 As is widely recognized, a home is a highly desired asset for individuals. Beyond being a place of residence, it can also function as a lucrative investment, given its historical tendency to increase in value over time. Nevertheless, we acknowledge the absence of a dedicated website or app for accurately estimating the selling price of a house. This is why we have created the "PropertyWorth" application to aid individuals, developers, and house appraisers in ascertaining the appropriate selling price for their properties in the DKI Jakarta region.
