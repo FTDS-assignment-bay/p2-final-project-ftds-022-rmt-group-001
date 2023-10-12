@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ibb.co/BjBddHd">
-    <img src="https://ibb.co/BjBddHd"
+    <img src="https://i.ibb.co/HYq11L1/Picture1.png"
          alt="Gitter" width="200">
   </a>
 </p>
