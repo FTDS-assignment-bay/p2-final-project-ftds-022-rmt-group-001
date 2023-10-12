@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://ibb.co/BjBddHd">
+    <img src="https://ibb.co/BjBddHd"
+         alt="Gitter" width="200">
+  </a>
+</p>
+
 ## PropertyWorth
 
 # Introduction
